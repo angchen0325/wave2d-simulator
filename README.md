@@ -6,9 +6,9 @@ Here I mainly focus on 2D light simulations.
 
 
 Here is my plan of going through the codes:
- * Four examples in the [repository](https://github.com/0x23/WaveSimulator2D), forming the [folder](./tutorials4ex/).
- * Examples that interest me, forming the [folder](./interestex/).
- * Good examples on Youbute, especially the Youtube channel [Huygens Optics](https://www.youtube.com/@HuygensOptics), forming the [folder](./huyoptex/).
+ * Four examples in the [repository](https://github.com/0x23/WaveSimulator2D), forming the [tutorials4ex folder](./tutorials4ex/).
+ * Examples that interest me, forming the [interestex folder](./interestex/).
+ * Good examples on Youbute, especially the Youtube channel [Huygens Optics](https://www.youtube.com/@HuygensOptics), forming the [huyoptex folder](./huyoptex/).
 
 
 ## Journey so far
